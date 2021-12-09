@@ -23,15 +23,15 @@ Plans:
 
 # 5) ICs
 
-1. Samsung 8Gbit A die
-Said to be the most-tightening of the released ICs so far (subject to change). Has XMPs of 1.55v *, so this should be the daily-safe limit if/when higher voltage kits get released. Found on high-end kits (ie 6600cl36-36-36-75 1.55v)
+1. Samsung 16Gbit B die *
+Said to be the most-tightening of the released ICs so far (subject to change). Has XMPs of 1.3v, so this should be the daily-safe limit if/when higher voltage kits get released. Found on high-end kits (ie 6400cl36-36-36 1.3v) (GSKILL F5-6400U3636E16GA2-TZ5RK)
 
-2. S.K. Hynix 8Gbit A die
-Has XMPs of 1.45v *. Worse than Samsung A die in terms of tightening. Found on mid-tier kits (ie 6000cl40-40-40-80 1.35v)
+2. S.K. Hynix 16Gbit M die *
+Has XMPs of 1.4v. Better than Samsung B die in terms of tightening. Found on mid-tier to high-end kits (ie 6800cl36 1.4v) (ADATA AX5U6800C3616G-DCLABK)
 
-3. Micron 8Gbit Revision A die
-Has XMPs of 1.25v *. Worse than S.K. Hynix A die in terms of tightening and frequency. Found on low-end kits (ie 5200cl38-38-38-76 1.25v)
+3. Micron 16Gbit Revision A die *
+Has XMPs of 1.25v. Worse than S.K. Hynix M die in terms of tightening and frequency. Found on low-end kits (ie 5200cl38 1.25v) (ADATA AD5U5200C3816G-BLA)
 
 More will be added soon!
 
-* Information based on Gigabyte Z690 Aorus Extreme Waterforce Memory QVL
+* Information based on MSI MEG Unify-X Memory QVL
