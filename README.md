@@ -34,4 +34,4 @@ Has XMPs of 1.25v. Worse than S.K. Hynix M die in terms of tightening and freque
 
 More will be added soon!
 
-* Information based on MSI MEG Unify-X Memory QVL
+*Information based on MSI MEG Unify-X Memory QVL
