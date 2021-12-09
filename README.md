@@ -7,7 +7,7 @@ Plans:
 2) Intro
 3) Tools
 4) Why OC (Gains)
-5) ICs
+5) [ICs](https://github.com/Arshia1381/DDR5-OC-Guide/blob/main/README.md#5-ics)
 6) Platforms
 7) Timings (breakdown)
 8) OC methodology (General)
