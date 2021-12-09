@@ -21,16 +21,16 @@ Plans:
 
 
 
-5) ICs
+# 5) ICs
 
-1. Samsung 8Gbit A die
-Said to be the most-tightening of the released ICs so far (subject to change). Has XMPs of 1.55v*, so this should be the daily-safe limit if/when higher voltage kits get released. Found on high-end kits (ie 6600cl36-36-36-75 1.55v)
+**1. Samsung 8Gbit A die
+Said to be the most-tightening of the released ICs so far (subject to change). Has XMPs of 1.55v *, so this should be the daily-safe limit if/when higher voltage kits get released. Found on high-end kits (ie 6600cl36-36-36-75 1.55v)
 
-2. S.K. Hynix 8Gbit A die
-Has XMPs of 1.45v*. Worse than Samsung A die in terms of tightening. Found on mid-tier kits (ie 6000cl40-40-40-80 1.35v)
+**2. S.K. Hynix 8Gbit A die
+Has XMPs of 1.45v *. Worse than Samsung A die in terms of tightening. Found on mid-tier kits (ie 6000cl40-40-40-80 1.35v)
 
-3. Micron 8Gbit Revision A die
-Has XMPs of 1.25v*. Worse than S.K. Hynix A die in terms of tightening and frequency. Found on low-end kits (ie 5200cl38-38-38-76 1.25v)
+**3. Micron 8Gbit Revision A die
+Has XMPs of 1.25v *. Worse than S.K. Hynix A die in terms of tightening and frequency. Found on low-end kits (ie 5200cl38-38-38-76 1.25v)
 
 More will be added soon!
 
