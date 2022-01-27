@@ -24,7 +24,7 @@ Plans:
 # 5) ICs
 
 1. Samsung 16Gbit B die *
-Said to be the most-tightening of the released ICs so far (subject to change). Has XMPs of 1.3v, so this should be the daily-safe limit if/when higher voltage kits get released. Found on mid to high-end kits (ie 6400cl36-36-36 1.3v) (GSKILL F5-6400U3636E16GA2-TZ5RK)
+ Has XMPs of 1.3v, so this should be the daily-safe limit if/when higher voltage kits get released. Found on mid to high-end kits (ie 6400cl36-36-36 1.3v) (GSKILL F5-6400U3636E16GA2-TZ5RK)
 
 2. S.K. Hynix 16Gbit M die *
 Has XMPs of 1.4v. Better than Samsung B die in terms of tightening. Found on high-end kits (ie 6800cl34 1.35v) (ADATA AX5U6800C3416G-DCLABK)
